@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Veyeve Docs",
+  "name": "Veyeve",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -21,14 +21,19 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Website",
+          "href": "https://vey.nx.kg",
+          "icon": "home"
         },
         {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "href": "https://veyeve.blogspot.com/",
+          "icon": "blog"
+        },
+        {
+          "anchor": "GitHub",
+          "href": "https://mintlify.com/docs",
+          "icon": "github"
         }
       ]
     }
@@ -41,7 +46,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:support@mintlify.com"
+        "href": "mailto:support@vey.nx.kg"
       }
     ],
     "primary": {
@@ -64,9 +69,8 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/VeyeveX",
+      "github": "https://github.com/Veyeve",
     }
   }
 }
