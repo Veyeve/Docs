@@ -59,7 +59,8 @@
         }
       ]
     },
-    "groups": [
+    "pages": [
+      "index",
       {
         "group": "Discord Bot",
         "pages": []
