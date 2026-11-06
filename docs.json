@@ -1,10 +1,10 @@
 {
-  "theme": "mint",
+  "theme": "maple",
   "name": "Veyeve Docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#4FBE7A",
+    "light": "#7DD9A1",
+    "dark": "#2E7D4F"
   },
   "logo": {
     "light": "https://veyeve.pages.dev/logo.png",
@@ -39,12 +39,7 @@
     "options": [
       "copy",
       "view",
-      "chatgpt",
-      "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
+      "mcp"
     ],
     "display": "header"
   },
@@ -88,7 +83,7 @@
     "timestamp": true
   },
   "interaction": {
-    "drilldown": true
+    "drilldown": false
   },
   "seo": {
     "indexing": "all"
@@ -97,5 +92,9 @@
     "404": {
       "redirect": true
     }
+  },
+  "appearance": {
+    "default": "system",
+    "strict": false
   }
 }
