@@ -86,5 +86,8 @@
   },
   "metadata": {
     "timestamp": true
+  },
+  "interaction": {
+    "drilldown": true
   }
 }
