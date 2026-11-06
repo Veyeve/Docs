@@ -14,21 +14,24 @@
   "navbar": {
     "links": [
       {
-        "href": "mailto:support@mintlify.com",
+        "href": "https://accounts.vey.nx.kg",
+        "label": "Manage Account"
+      },
+      {
+        "href": "https://www.vey.nx.kg/contact",
         "label": "Support"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
+      "label": "Website",
+      "href": "https://vey.nx.kg"
     }
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/VeyeveX",
+      "github": "https://github.com/Veyeve"
     }
   },
   "contextual": {
@@ -59,11 +62,25 @@
         }
       ]
     },
-    "groups": [
+    "products": [
       {
-        "group": "Discord Bot",
-        "pages": []
+        "product": "Veyeve"
+      },
+      {
+        "product": "Avenoru Domains"
+      },
+      {
+        "product": "Avenoru DNS"
+      },
+      {
+        "product": "Avenoru Pages"
+      },
+      {
+        "product": "Vexly"
       }
     ]
+  },
+  "banner": {
+    "content": "Veyeve Accounts Coming Soon!"
   }
 }
