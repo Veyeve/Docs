@@ -82,5 +82,8 @@
   },
   "banner": {
     "content": "Veyeve Accounts Coming Soon!"
+  },
+  "metadata": {
+    "timestamp": true
   }
 }
