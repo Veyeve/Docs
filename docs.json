@@ -8,7 +8,8 @@
   },
   "logo": {
     "light": "https://veyeve.pages.dev/logo.png",
-    "dark": "https://veyeve.pages.dev/logo.png"
+    "dark": "https://veyeve.pages.dev/logo.png",
+    "href": "/"
   },
   "favicon": "https://veyeve.pages.dev/logo.png",
   "navbar": {
