@@ -89,5 +89,13 @@
   },
   "interaction": {
     "drilldown": true
+  },
+  "seo": {
+    "indexing": "all"
+  },
+  "errors": {
+    "404": {
+      "redirect": true
+    }
   }
 }
